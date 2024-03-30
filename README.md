@@ -11,7 +11,7 @@ Os Jogos Olímpicos são o principal evento esportivo internacional, composto po
 * [Frederico Botelho Martins](https://github.com/fredmartins12)
 * [André Maxwell](https://github.com/andremaxwell)
 * [Pedro Raposo](https://github.com/pedroraposo)
-* [Humberto Nunes](https://github.com/humbertonunes)
+* [Humberto Nunes](https://github.com/HumbertoNunesLira)
 
 # Professor
 * [Yuri Malheiros](https://github.com/yurimalheiros)
