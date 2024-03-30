@@ -8,7 +8,7 @@ Este é o projeto final da disciplina de Análise de Dados Esportivos 2023.2 do 
 Os Jogos Olímpicos são o principal evento esportivo internacional, composto por uma variedade de modalidades e disputado por atletas de todo o mundo. Os Jogos oferecem uma plataforma para os melhores atletas demonstrarem suas habilidades, determinação e espírito esportivo.
 
 # Analistas de Dados 📊
-* [Frederico Botelho Martins](https://github.com/fredericomartins)
+* [Frederico Botelho Martins](https://github.com/fredmartins12)
 * [André Maxwell](https://github.com/andremaxwell)
 * [Pedro Raposo](https://github.com/pedroraposo)
 * [Humberto Nunes](https://github.com/humbertonunes)
