@@ -16,17 +16,17 @@ Os Jogos Olímpicos são o principal evento esportivo internacional, composto po
 # Professor
 * [Yuri Malheiros](https://github.com/yurimalheiros)
 
-# Questões a serem exploradas 🤔
+# Questões a serem exploradas 
 
 1. Qual o ranking geral das Olimpíadas, considerando os Jogos de Verão, Inverno e Paraolimpíadas?
 2. Como foi o retrospecto do país-sede ao longo das edições dos Jogos Olímpicos?
 3. Qual é a relação entre a idade dos atletas e suas chances de se tornarem medalhistas?
 
-## Status em Andamento 🚀
+## Status em Andamento 
 
 Atualmente, estamos coletando e limpando os dados das Olimpíadas para iniciar as análises. Em breve, iniciaremos a exploração dos dados e a aplicação de técnicas de análise de dados.
 
-## Ferramentas Utilizadas 🛠️
+## Ferramentas Utilizadas 
 * **Python** - Linguagem de programação poderosa
 * **Jupyter Notebook** - Ambiente de desenvolvimento interativo
 * **Matplotlib & Seaborn** - Bibliotecas de visualização de dados
