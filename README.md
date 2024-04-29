@@ -9,7 +9,7 @@ Os Jogos Olímpicos são o principal evento esportivo internacional, composto po
 
 # Analistas de Dados 📊
 * [Frederico Botelho Martins](https://github.com/fredmartins12)
-* [André Maxwell](https://github.com/andremaxwell)
+* [André Maxwell](https://github.com/Andre-Maxwell)
 * [Pedro Raposo](https://github.com/pedroraposo)
 * [Humberto Nunes](https://github.com/HumbertoNunesLira)
 
