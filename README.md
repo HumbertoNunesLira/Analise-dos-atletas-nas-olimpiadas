@@ -22,9 +22,9 @@ Os Jogos Olímpicos são o principal evento esportivo internacional, composto po
 2. Como foi o retrospecto do país-sede ao longo das edições dos Jogos Olímpicos?
 3. Qual é a relação entre a idade dos atletas e suas chances de se tornarem medalhistas?
 
-## Status em Andamento 🚀
+## Status Concluido 🚀
 
-Atualmente, estamos coletando e limpando os dados das Olimpíadas para iniciar as análises. Em breve, iniciaremos a exploração dos dados e a aplicação de técnicas de análise de dados.
+projeto concluido e finalizado, com apresentação realizada no dia 29/04/2024 no MIT (Mangabeira Institute Technology).
 
 ## Ferramentas Utilizadas 🛠️
 * **Python** - Linguagem de programação poderosa
