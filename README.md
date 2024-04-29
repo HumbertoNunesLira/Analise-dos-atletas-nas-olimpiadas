@@ -33,3 +33,4 @@ Atualmente, estamos coletando e limpando os dados das Olimpíadas para iniciar a
 
 ## Dados Utilizados 📖
 * 🔎 [Dados das Olimpíadas](https://www.kaggle.com/datasets/krishd123/olympics-legacy-1896-2020)
+* 🔎 [Dados de todas as cidades do Mundo](https://www.worldcitydb.com/?lang=pt)
